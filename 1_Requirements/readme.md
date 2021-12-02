@@ -31,6 +31,14 @@ locker otherwise the door remains locked and image is saved in SD card after cap
 ## When
  Fingerprint Based Security System not only prevents thefts but also it reduces the possibility of theft in future because of its capturing capacity which can be used by authorities to recognise the ambiguous person in a quiet good manner.
  ## Where
- In all bank
-for Lockers, In all bank ATMs, In all Educational Institution, used in jeweller shops, In all Shopping malls, In all IT Sectors, In house,Schools treasury, Colleges treasury
-and in industries, VIP vehicles, in hospital, offices. Vehicle, Security Applications.
+ In all bank for Lockers, In all bank ATMs, In all Educational Institution, used in jeweller shops, In all Shopping malls, In all IT Sectors, In house,Schools treasury, Colleges treasury and in industries, VIP vehicles, in hospital, offices. Vehicle, Security Applications.
+## How
+Finger print processing includes two parts,fingerprint enrolment and fingerprint matching (the matching can be 1:1 or 1: N). When enrolling, user needs to enter the finger
+two times. The system will process the two timefinger images, generate a template of the finger based on processing results and store the template. When matching,
+user enters the finger through optical sensor and system will generate a template of the finger and compare it with templates of the finger library.
+
+# High Level Requirements
+| High Level Requirements	| Description |
+|---------------------------------------|
+|  HLR1  | Microcontroller |
+|  HLR2  | LED  |
