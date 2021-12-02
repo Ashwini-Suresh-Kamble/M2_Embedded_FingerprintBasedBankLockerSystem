@@ -1,3 +1,36 @@
 # Requirements
 ## Introduction:
 In the real world, peoples are more concerned about their safety for their valuable things like jewellery, money, important documents etc. So the bank lockers are the safest place to store them. The arrival of fast growing technologies makes users to have high security systems with electronic identification options. The main goal of this project is to design and implement a bank locker security system. This can be organized in bank, offices and homes. In this system only the authenticate person recover the documents or money from the lockers.
+
+# Components Used
+## Hardware components:
+1- Microcontroller
+2- Fingerprint module
+3- LED
+4- Voltmeter
+## Software Required
+1-Simulide
+2-Visual Studio Code 
+
+# SWOT Analysis
+## Strengths
+The system is cheap and easy to use. This system can be mounted anywhere, where you need high degree of security the low cost of the project is very important factor in this project. These locker system is very reliable and safe.
+## Weakness
+Proper installation is crucial to avoid unnecessary and unwanted activation.
+## Opportunity
+We can use this biometric system in bikes for antitheft system, this biometric system will use in bike locking and to ignite the engine of the bike to provide an advancement in car biometric system can be implement which is good idea for ignite the engine and to run the car so that only owner of the car can drive the car. Retina scanner can be implemented at the place of fingerprint.
+## Threats
+New technologies for security.
+
+# 4W's and 1H's
+## WHO
+Fingerprint identification is based on pattern recognition where the arches, loops and whorls of the fingerprint ridges are compared with stored data.This project moreover important because it provides surveillance also which makes it more interesting in the field of security.
+## What
+A security system is proposed by using Image capturing and Fingerprint. It is a low cost, low in power conception, compact in size and standalone system. The microcontroller compares the fingerprints scanned by it with its flash memory. If these fingerprints are correct, the microcontroller provides necessary control signal to open the bank
+locker otherwise the door remains locked and image is saved in SD card after capturing. The proposed system can be used in other places such as offices and diamond jewellery shops.
+## When
+ Fingerprint Based Security System not only prevents thefts but also it reduces the possibility of theft in future because of its capturing capacity which can be used by authorities to recognise the ambiguous person in a quiet good manner.
+ ## Where
+ In all bank
+for Lockers, In all bank ATMs, In all Educational Institution, used in jeweller shops, In all Shopping malls, In all IT Sectors, In house,Schools treasury, Colleges treasury
+and in industries, VIP vehicles, in hospital, offices. Vehicle, Security Applications.
