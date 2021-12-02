@@ -42,3 +42,13 @@ user enters the finger through optical sensor and system will generate a templat
 |-------------------------|--------------|
 |  HLR1  | Microcontroller |
 |  HLR2  | LED  |
+| HLR3 | Fingerprint Sensor |
+| HLR4 | Software |
+
+# Low Level Requirements
+| Low Level Requirements	| Description |
+|-------------------------|--------------|
+| LLR1 | ATmega328 |
+| LLR2 | Simulide |
+| LLR3 | Visual Studio Code |
+| LLR1 | ATmega328 |
