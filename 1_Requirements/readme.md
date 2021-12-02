@@ -39,6 +39,6 @@ user enters the finger through optical sensor and system will generate a templat
 
 # High Level Requirements
 | High Level Requirements	| Description |
-|---------------------------------------|
+|-------------------------|--------------|
 |  HLR1  | Microcontroller |
 |  HLR2  | LED  |
